@@ -1,5 +1,9 @@
 @import '~antd/dist/antd.css';
 
+a {
+  color: #fff;
+}
+
 .App {
   text-align: center;
 }
@@ -9,4 +13,8 @@
   background: #333;
   border-radius: 6px;
   margin: 16px;
+}
+
+.container {
+  margin: 24px 24px 24px 224px;
 }
